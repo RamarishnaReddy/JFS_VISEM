@@ -47,5 +47,7 @@ document.getElementById("regForm").addEventListener("submit", function(e){
         "Selected Subjects:\n- " + selectedSubjects.join("\n- ") + "\n\n" +
         "Total Fee: ₹" + totalFee;
 
-    alert(message);
+    //alert(message);
+    let division = document.querySelector("#extension");
+    division.innerText = message
 });

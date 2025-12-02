@@ -55,3 +55,7 @@ button {
 button:hover {
     background: #005fcc;
 }
+#extension{
+    margin-top: 15px;
+    border: 3px black solid;
+}
