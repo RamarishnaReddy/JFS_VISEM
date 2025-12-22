@@ -1,0 +1,2 @@
+public static final String JWT_SECRET_KEY = "AUTH_ACCESS_TOKEN";
+    *public static final String JWT\_SECRET\_DEFAULT\_VALUE = "Y8mD4sR2pQwE9uT6gM1xA7vC5bL9tH3jK2pF6qW8";*
